@@ -1,0 +1,1 @@
+print('flask API 설계 부분입니다.')
